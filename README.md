@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my projects, technical 
 
  🚀 Live Demo
 
-🔗 file:///E:/Ritika/Ritika-projects/Ritika%20folder/Ritika_portfolio/my-portifolio/index.html
+https://ritika-rai913.github.io/My-Portfolio/
 
  ✨ Features
 
